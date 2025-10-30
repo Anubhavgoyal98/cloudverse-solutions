@@ -1,2 +1,2 @@
 # cloudverse-solutions
-Cloudverse main website
+Cloudverse website for solutions
