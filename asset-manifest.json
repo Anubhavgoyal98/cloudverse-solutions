@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cloudverse-clone/static/js/main.7b0ffa3b.js",
+    "index.html": "/cloudverse-clone/index.html",
+    "main.7b0ffa3b.js.map": "/cloudverse-clone/static/js/main.7b0ffa3b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b0ffa3b.js"
+  ]
+}
